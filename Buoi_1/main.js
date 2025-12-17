@@ -1,0 +1,12 @@
+let HoTen = "Nguyễn Văn Khẩn";
+let Tuoi = "20";
+let diachi = "Thanh Hóa";
+let sdt = "0345678901";
+let email = "nguyenvankhan@gmail.com";
+let diemtoan = 8;
+let diẻmvan = 7.5;
+let diemanh = 9;
+let nghenghiep = "Sinh viên";
+let sinhvien = true;
+console.log("họ và tên:" + HoTen);
+console.log("tuổi:" + Tuoi);
